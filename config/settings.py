@@ -1,0 +1,2 @@
+USE_UVLOOP = False
+LOG_LEVEL = "INFO"
