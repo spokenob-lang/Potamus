@@ -1,2 +1,3 @@
-USE_UVLOOP = False
-LOG_LEVEL = "INFO"
+LOG_LEVEL = "DEBUG"
+
+DEBUG_MODE = True
